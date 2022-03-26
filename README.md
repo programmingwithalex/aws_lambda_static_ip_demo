@@ -10,7 +10,7 @@ This video will cover end-to-end how to:
 2. Testing Lambda to verify the static outgoing IP
 3. Automating creating the VPC with AWS Cloudformation and re-verifying the static outgoing IP
 
-![aws lambda static ip diagram](images/aws_static_ip_complex_watermark.PNG)
+![aws lambda static ip diagram](images/aws_static_ip_complex_watermark.png)
 
 ## License
 

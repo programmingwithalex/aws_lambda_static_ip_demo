@@ -1,8 +1,11 @@
 Description:  This template deploys a VPC, with a single public subnet
   and two private subnets spread across two Availability Zones.
   It deploys an internet gateway, with a default
-  route on the public subnets. It deploys a NAT gateway,
-  and default routes it in the private subnets.
+  route on the public subnets.
+  It deploys a NAT gateway, and default routes it in the private subnets.
+    Different from previous video
+    Not allowed to modify main route table in cloudformation
+    Workaround is to create two separate route tables for each private subnet.
 
 Parameters:
   EnvironmentName:

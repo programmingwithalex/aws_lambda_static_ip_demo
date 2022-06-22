@@ -2,7 +2,7 @@
 
 Copyright (c) 2021, [programmingwithalex](https://github.com/programmingwithalex)
 
-This repo serves as a reference for the [YouTube playlist found here](https://www.youtube.com/watch?v=m4diiuHP-vM&list=PL0dOL8Z7pG3KSWxlDYibg0OyMb60BIHgr&index=1).
+This repo serves as a reference for the [YouTube playlist found here](https://www.youtube.com/watch?v=Vv2CIshrPjI&list=PLbn3jWIXv_iaiPMuF3n_foGA54To_LceT&index=1).
 
 This video will cover end-to-end how to:
 
